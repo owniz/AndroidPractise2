@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PracticaEvaluable2</string>
+    <string name="pedir_nombre">pedir nombre</string>
+    <string name="pedir_edad">pedir edad</string>
+    <string name="pedir_telefono">pedir telefono</string>
+    <string name="escriba_aqui">Escriba aquí</string>
+    <string name="aceptar">aceptar</string>
+    <string name="introduzca">Introduzca el dato requerido</string>
+    <string name="elija_opcion">Elija opción:</string>
+    <string name="nombre">Nombre:\u0020</string>
+    <string name="edad">Edad:\u0020</string>
+    <string name="telefono">Teléfono:\u0020</string>
+    <string name="introducir_nombre">Debes introducir un dato.</string>
+    <string name="usuario_back">El usuario ha apretado Back</string>
+</resources>
